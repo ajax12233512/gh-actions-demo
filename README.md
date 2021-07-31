@@ -67,9 +67,9 @@ Office Hours: 45 minutes before class (Mon/Wed 5:45 PM, Sat 9:30 AM) and 30 minu
 
 Overview | Homeworks |
 ------------ | ------------|
-[Overview](/01-html-git-css/README.md) | [Homework Instructions](/01-html-git-css/02-Homework/README.md)
-[Class Activites](/01-html-git-css/01-Activities) | [Important Information](/01-html-git-css/03-Important-Documents)
-[Career Services](/01-html-git-css/04-Career-Connection) | No Algorithm Practice
+[Overview](/01-HTML-Git-CSS/README.md) | [Homework Instructions](/01-HTML-Git-CSS/02-Homework/README.md)
+[Class Activites](/01-HTML-Git-CSS/01-Activities) | [Important Information](/01-HTML-Git-CSS/03-Important-Documents)
+[Career Services](/01-HTML-Git-CSS/04-Career-Connection) | No Algorithm Practice
 
 # Zoom Recording Links
 
