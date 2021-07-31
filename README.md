@@ -68,8 +68,8 @@ Office Hours: 45 minutes before class (Mon/Wed 5:45 PM, Sat 9:30 AM) and 30 minu
 Overview | Homeworks |
 ------------ | ------------|
 [Overview](/01-html-git-css/README.md) | [Homework Instructions](/01-html-git-css/02-Homework/README.md)
-[Class Activites](/01-html-git-css/01-Activities) | [Important Information](/01-html-git-css/04-Career-Connection)
-No Office Hours Activities | No Algorithm Practice
+[Class Activites](/01-html-git-css/01-Activities) | [Important Information](/01-html-git-css/03-Important-Documents)
+[Career Services](/01-html-git-css/04-Career-Connection) | No Algorithm Practice
 
 # Zoom Recording Links
 
@@ -85,8 +85,8 @@ No Office Hours Activities | No Algorithm Practice
 Overview | Homeworks |
 ------------ | ------------|
 [Overview](/02-Advanced-CSS/README.md) | [Homework Instructions](/02-Advanced-CSS/02-Homework/README.md)
-[Class Activites](/02-Advanced-CSS/01-Activities) | [Important Information](/02-Advanced-CSS/04-Career-Connection)
-No Office Hours Activities | No Algorithms Practice
+[Class Activites](/02-Advanced-CSS/01-Activities) | [Important Information](/02-Advanced-CSS/03-Important-Documents)
+[Career Services](/04-Career-Connection) | No Algorithms Practice
 
 #### Zoom Recording Links
 
@@ -104,8 +104,8 @@ No Office Hours Activities | No Algorithms Practice
 Overview | Homeworks |
 ------------ | ------------|
 [Overview](/03-JavaScript/README.md) | [Homework Instructions](/03-JavaScript/02-Homework/README.md)
-[Class Activites](/03-JavaScript/01-Activities) | [Important Information](/03-JavaScript/04-Career-Connection)
-No Office Hours Activities | [Algorithm Practice](/03-JavaScript/03-Algorithms)
+[Class Activites](/03-JavaScript/01-Activities) | [Important Information](/03-JavaScript/03-Important-Documents)
+[Career Services](/04-Career-Connection) | [Algorithm Practice](/03-JavaScript/03-Algorithms)
 
 #### Zoom Recording Links
 
@@ -123,8 +123,8 @@ No Office Hours Activities | [Algorithm Practice](/03-JavaScript/03-Algorithms)
 Overview | Homeworks |
 ------------ | ------------|
 [Overview](/04-Web-APIs/README.md) | [Homework Instructions](/04-Web-APIs/02-Homework/README.md)
-[Class Activites](/04-Web-APIs/01-Activities) | [Important Information](/04-Web-APIs/04-Career-Connection)
-No Office Hours Activities | [Algorithm Practice](/04-Web-APIs/03-Algorithms)
+[Class Activites](/04-Web-APIs/01-Activities) | [Important Information](/04-Web-APIs/03-Important-Documents)
+[Career Services](/04-Career-Connection) | [Algorithm Practice](/04-Web-APIs/03-Algorithms)
 
 #### Zoom Recording Links
 
@@ -142,8 +142,8 @@ No Office Hours Activities | [Algorithm Practice](/04-Web-APIs/03-Algorithms)
 Overview | Homeworks |
 ------------ | ------------|
 [Overview](/05-Third-Party-APIs/README.md) | [Homework Instructions](/05-Third-Party-APIs/02-Homework/README.md)
-[Class Activites](/05-Third-Party-APIs/01-Activities) | [Important Information](/05-Third-Party-APIs/04-Career-Connection)
-No Office Hours Activities | [Algorithm Practice](/05-Third-Party-APIs/03-Algorithms)
+[Class Activites](/05-Third-Party-APIs/01-Activities) | [Important Information](/05-Third-Party-APIs/03-Important-Documents)
+[Career Services](/04-Career-Connection) | [Algorithm Practice](/05-Third-Party-APIs/03-Algorithms)
 
 #### Zoom Recording Links
 
@@ -161,8 +161,8 @@ No Office Hours Activities | [Algorithm Practice](/05-Third-Party-APIs/03-Algori
 Overview | Homeworks |
 ------------ | ------------|
 [Overview](/06-Server-Side-APIs/README.md) | [Homework Instructions](/06-Server-Side-APIs/02-Homework/README.md)
-[Class Activites](/06-Server-Side-APIs/01-Activities) | [Important Information](/06-Server-Side-APIs/04-Career-Connection)
-No Office Hours Activities | [Algorithm Practice](/06-Server-Side-APIs/03-Algorithms)
+[Class Activites](/06-Server-Side-APIs/01-Activities) | [Important Information](/06-Server-Side-APIs/03-Important-Documents)
+[Career Services](/04-Career-Connection) | [Algorithm Practice](/06-Server-Side-APIs/03-Algorithms)
 
 #### Zoom Recording Links
 
@@ -180,8 +180,8 @@ No Office Hours Activities | [Algorithm Practice](/06-Server-Side-APIs/03-Algori
 Overview | Homeworks |
 ------------ | ------------|
 [Overview](/07-Project-1/README.md) | [Homework Instructions](/07-Project-1/02-Homework/README.md)
-No Activites Available | [Important Information](/07-Project-1/04-Career-Connection)
-No Office Hours Activities | No Algorithm Practice
+No Activites Available | [Important Information](/07-Project-1/03-Important-Documents)
+[Career Services](/04-Career-Connection) | No Algorithm Practice
 
 #### Zoom Recording Links
 
@@ -199,8 +199,8 @@ No Office Hours Activities | No Algorithm Practice
 Overview | Homeworks |
 ------------ | ------------|
 [Overview](/08-Project-1-Contd/README.md) | [Homework Instructions](/08-Project-1-Contd/02-Homework/README.md)
-No Activites Available | [Important Information](/08-Project-1-Contd/04-Career-Connection)
-No Office Hours Activities | No Algorithm Practice
+No Activites Available | [Important Information](/08-Project-1-Contd/03-Important-Documents)
+[Career Services](/04-Career-Connection) | No Algorithm Practice
 
 #### Zoom Recording Links
 
