@@ -127,3 +127,7 @@ Gitlab SSH key validation
 ## CSS 
 
 [CSS Basics](https://www.w3schools.com/css/css_intro.asp)
+
+[CSS Selectors](https://www.w3schools.com/css/css_selectors.asp)
+
+[CSS Rule reference](https://www.w3schools.com/cssref/default.asp)
