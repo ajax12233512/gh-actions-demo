@@ -73,7 +73,7 @@ Overview | Homeworks |
 
 # Zoom Recording Links
 
-[1.1 The Zen of Coding](#)
+[1.1 The Zen of Coding](https://zoom.us/rec/share/aNV0kGB245iCzOiKWGBuLV4nIAgJWSwVZcTGQ_al3KY5XTakyRpTYTO3Q5kqAZ5q.gJvs4T_78NA00TIm)
 
 [1.2 Git'n Pro with HTML/CSS](#)
 
