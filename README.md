@@ -75,7 +75,7 @@ Overview | Homeworks |
 
 [1.1 The Zen of Coding](https://zoom.us/rec/share/aNV0kGB245iCzOiKWGBuLV4nIAgJWSwVZcTGQ_al3KY5XTakyRpTYTO3Q5kqAZ5q.gJvs4T_78NA00TIm)
 
-[1.2 Git'n Pro with HTML/CSS](#)
+[1.2 Git'n Pro with HTML/CSS](https://zoom.us/rec/play/E547MIrKWn9kv9pxKAlfXRsoK9Onguoz1JEX_GyQ1lIRqD-4RZgbqNK0x6RqeRr5nM3HQhO_PEJdbKoc.CgUMyQX7B-IBtz1O?startTime=1627739862000&_x_zm_rtaid=OycBDRcDQtae5oHdarTlNA.1627859807583.a5760f9a007ee24a7ca8bece9d1a1806&_x_zm_rhtaid=863)
 
 [1.3 Heroes of CSS](#)
 
