@@ -77,7 +77,8 @@ Overview | Homeworks |
 
 [1.2 Git'n Pro with HTML/CSS](https://zoom.us/rec/play/E547MIrKWn9kv9pxKAlfXRsoK9Onguoz1JEX_GyQ1lIRqD-4RZgbqNK0x6RqeRr5nM3HQhO_PEJdbKoc.CgUMyQX7B-IBtz1O?startTime=1627739862000&_x_zm_rtaid=OycBDRcDQtae5oHdarTlNA.1627859807583.a5760f9a007ee24a7ca8bece9d1a1806&_x_zm_rhtaid=863)
 
-[1.3 Heroes of CSS](#)
+[1.3 Heroes of CSS (1)](https://zoom.us/rec/share/-qP_FwMtlPFtePM48wbI2brgytP2RhKOgeiOjNf_fzBW92m0c5GkEp5EYm1bppnY.c7tCUxKHXKoB1TUo?startTime=1627944230000)
+[1.3 Heroes of CSS (2)](https://zoom.us/rec/share/-qP_FwMtlPFtePM48wbI2brgytP2RhKOgeiOjNf_fzBW92m0c5GkEp5EYm1bppnY.c7tCUxKHXKoB1TUo?startTime=1627958535000)
 
 
 ## Advanced CSS
