@@ -91,7 +91,7 @@ Overview | Homeworks |
 
 #### Zoom Recording Links
 
-[2.1 Advanced CSS Day 1](#)
+[2.1 Advanced CSS Day 1](https://zoom.us/rec/share/uWKcGghzZ87-44Wfz3a82zDDRlljdXDWalyTzozt-DawYx9XrJGBNuvS2Nkkdt5j.7-OJqGbIrM1sQDtc?startTime=1628117072000)
 
 [2.2 Advanced CSS Day 2](#)
 
