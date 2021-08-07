@@ -121,6 +121,10 @@ Gitlab SSH key validation
 
 [Semantic HTML Example](https://gist.github.com/thomd/9220049)
 
+[Global HTML Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/data-*)
+
+[Emmet Cheat Sheet for easy HTML Generation](https://docs.emmet.io/cheat-sheet/)
+
 
 ---
 
