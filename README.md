@@ -95,7 +95,7 @@ Overview | Homeworks |
 
 [2.2 Advanced CSS Day 2](https://zoom.us/rec/share/VZs_2vkyDgcqN-LeLY83E4sjR1HA0-YyLGF3p0HfhDvLXiqfDjmBLOKwya3x-fQx.D1UoZVhjdrGeGrPa?startTime=1628345649000)
 
-[2.3 Advanced CSS Day 3](https://zoom.us/rec/share/6W_6dDYB6fB_8iXm6kOJHD8gn4D3CsNToedhpH4LAQzkywkBe-lPZgc0k6JY6lkC.7zHCd6oiV7-Lluhw?startTime=1628565407000)
+[2.3 Advanced CSS Day 3](https://zoom.us/rec/share/MyC0CDSF6vEPVZP9xeqfN5qyMoXKrSTRcElhHyOxiCzsSl8PFPdkNxmIxn4fvQsV.XTdO2BTF_NbdMp2H?startTime=1628548922000)
 
 [Table Of Contents](#table-of-contents)
 
