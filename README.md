@@ -110,7 +110,7 @@ Overview | Homeworks |
 
 #### Zoom Recording Links
 
-[3.1 JavaScript Day 1](#)
+[3.1 JavaScript Day 1](https://zoom.us/rec/share/wManb-QlYqeb7KLKA2YFGO4229HcdgbxCIX35f8aP7Ge7zeoomOSWqD_arwt__yw.Ue9qkfVwdmeLpFif?startTime=1628721730000)
 
 [3.2 JavaScript Day 2](#)
 
