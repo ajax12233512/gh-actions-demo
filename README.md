@@ -112,7 +112,7 @@ Overview | Homeworks |
 
 [3.1 JavaScript Day 1](https://zoom.us/rec/share/wManb-QlYqeb7KLKA2YFGO4229HcdgbxCIX35f8aP7Ge7zeoomOSWqD_arwt__yw.Ue9qkfVwdmeLpFif?startTime=1628721730000)
 
-[3.2 JavaScript Day 2](#)
+[3.2 JavaScript Day 2](https://zoom.us/rec/share/xiMstHLb9EAks9rFs-Pplt6k5ts5sWk8x1_QKN6MZ-fzsO2DNYx9eiFtWJXtr6ej.WjHeooCwlWnKzuQb?startTime=1628950343000)
 
 [3.3 JavaScript Day 3](#)
 
