@@ -105,7 +105,7 @@ Overview | Homeworks |
 Overview | Homeworks |
 ------------ | ------------|
 [Overview](/03-JavaScript/README.md) | [Homework Instructions](/03-JavaScript/02-Homework/README.md)
-[Class Activites](/03-JavaScript/01-Activities) | [Important Information](/03-JavaScript/03-Important-Documents)
+[Class Activites](/03-JavaScript/01-Activities) | [Important Information](/03-JavaScript/05-Important-Documents)
 [Career Services](/04-Career-Connection) | [Algorithm Practice](/03-JavaScript/03-Algorithms)
 
 #### Zoom Recording Links
