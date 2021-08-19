@@ -129,7 +129,9 @@ Overview | Homeworks |
 
 #### Zoom Recording Links
 
-[4.1 Web APIs Day 1](#)
+[4.1 Web APIs Day 1.1](https://zoom.us/rec/share/LdaqIM6gH84E3adC5NhUibXgTJ-ZtRRWK0OyPKa6cg-PzZQsOQQSDDaA-V2nS7xd.sKO4-SFqWxZVokf9?startTime=1629326662000)
+
+[4.1 Web APIs Day 1.2](https://zoom.us/rec/share/LdaqIM6gH84E3adC5NhUibXgTJ-ZtRRWK0OyPKa6cg-PzZQsOQQSDDaA-V2nS7xd.sKO4-SFqWxZVokf9?startTime=1629333127000)
 
 [4.2 Web APIs Day 2](#)
 
