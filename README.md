@@ -133,7 +133,7 @@ Overview | Homeworks |
 
 [4.1 Web APIs Day 1.2](https://zoom.us/rec/share/LdaqIM6gH84E3adC5NhUibXgTJ-ZtRRWK0OyPKa6cg-PzZQsOQQSDDaA-V2nS7xd.sKO4-SFqWxZVokf9?startTime=1629333127000)
 
-[4.2 Web APIs Day 2](#)
+[4.2 Web APIs Day 2](https://zoom.us/rec/play/Esi-I5mYv30OY-W2jN6MDnSVQlBYfDH1X3CZxAcACSjLAWi77FDDjqZPGtntEI4sZInhiPs_QUEok7tO.57YMkS2I_l3tF-Gh?startTime=1629555987000)
 
 [4.3 Web APIs Day 3](#)
 
