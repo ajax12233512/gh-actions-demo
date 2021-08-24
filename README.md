@@ -135,7 +135,7 @@ Overview | Homeworks |
 
 [4.2 Web APIs Day 2](https://zoom.us/rec/play/Esi-I5mYv30OY-W2jN6MDnSVQlBYfDH1X3CZxAcACSjLAWi77FDDjqZPGtntEI4sZInhiPs_QUEok7tO.57YMkS2I_l3tF-Gh?startTime=1629555987000)
 
-[4.3 Web APIs Day 3](#)
+[4.3 Web APIs Day 3](https://zoom.us/rec/share/W_nTwrOhSoxphE8mNmtzsq_7ErC4Ocyf4O3NheXrrzFNlSZq5bP85fnLQOHIpqAU.iFQoLaLpyEmulOLI?startTime=1629758553000)
 
 [Table Of Contents](#table-of-contents)
 
