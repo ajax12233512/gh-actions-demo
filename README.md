@@ -150,7 +150,7 @@ Overview | Homeworks |
 
 #### Zoom Recording Links
 
-[5.1 Third-Party APIs Day 1](#)
+[5.1 Third-Party APIs Day 1](https://zoom.us/rec/share/ertpg8f-d0XZMaGIwNkDO74rIunuB44MF1AUt2bStyCx7LOGO_7mIg1HD6GnKqPY.3INWL-XPGKBk1buB?startTime=1629931241000)
 
 [5.2 Third-Party APIs Day 2](#)
 
