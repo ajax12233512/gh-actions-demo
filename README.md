@@ -152,9 +152,9 @@ Overview | Homeworks |
 
 [5.1 Third-Party APIs Day 1](https://zoom.us/rec/share/ertpg8f-d0XZMaGIwNkDO74rIunuB44MF1AUt2bStyCx7LOGO_7mIg1HD6GnKqPY.3INWL-XPGKBk1buB?startTime=1629931241000)
 
-[5.2 Third-Party APIs Day 2](#)
+[5.2 Third-Party APIs Day 2](https://zoom.us/rec/share/eMeyTNbCAfCeJbg1AtqOspRZQtFWIEEynKEW2c4AZC5Bl9o9F40dr4AYf5v0jbt1.BRW3LqpWF4Qv44ca?startTime=1630160043000)
 
-[5.3 Third-Party APIs Day 3](#)
+[5.3 Third-Party APIs Day 3](https://zoom.us/rec/share/z-H-5pwGMsL60uZM3CiWUrETgX1W1dLKyIY3tQyJjgpSuNqKzfnjz6bmuZKTpqgh.Ot72ERNMhAtMOf4I?startTime=1630363593000)
 
 [Table Of Contents](#table-of-contents)
 
