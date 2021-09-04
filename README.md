@@ -169,7 +169,7 @@ Overview | Homeworks |
 
 #### Zoom Recording Links
 
-[6.1 Server-Side APIs Day 1](#)
+[6.1 Server-Side APIs Day 1](https://zoom.us/rec/share/olyoeLYAfK0kjz75NGgTAJweGYGU4sMzW2eOYpASHlHZiNCgieM8ObIp0KTE4e_7.bYMjov18naGAngxE?startTime=1630535999000)
 
 [6.2 Server-Side APIs Day 2](#)
 
