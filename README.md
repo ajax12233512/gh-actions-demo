@@ -171,7 +171,7 @@ Overview | Homeworks |
 
 [6.1 Server-Side APIs Day 1](https://zoom.us/rec/share/olyoeLYAfK0kjz75NGgTAJweGYGU4sMzW2eOYpASHlHZiNCgieM8ObIp0KTE4e_7.bYMjov18naGAngxE?startTime=1630535999000)
 
-[6.2 Server-Side APIs Day 2](#)
+[6.2 Server-Side APIs Day 2](https://zoom.us/rec/share/aykCmt0psmxKMtwrL9ojKEWrS0af-zCGWMLAuoZtxYzCDl31bqFFYkdr6W2IeaXk.8gDVDrAwuq9qJg1l?startTime=1631140692000)
 
 [6.3 Server-Side APIs Day 3](#)
 
