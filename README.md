@@ -173,7 +173,7 @@ Overview | Homeworks |
 
 [6.2 Server-Side APIs Day 2](https://zoom.us/rec/share/aykCmt0psmxKMtwrL9ojKEWrS0af-zCGWMLAuoZtxYzCDl31bqFFYkdr6W2IeaXk.8gDVDrAwuq9qJg1l?startTime=1631140692000)
 
-[6.3 Server-Side APIs Day 3](#)
+[6.3 Server-Side APIs Day 3](https://zoom.us/rec/share/tDEWXpXFu02dxSfSGsEfJen182VQBnarW_e7Wjt3W9-b2JEXVAE-ZVNqUDj0h7Cs.lhXEVIha5upsPXhs)
 
 [Table Of Contents](#table-of-contents)
 
@@ -188,7 +188,7 @@ No Activites Available | [Important Information](/07-Project-1/03-Important-Docu
 
 #### Zoom Recording Links
 
-[7.1 Project #1](#)
+[7.1 Project #1](https://zoom.us/rec/share/4ln85Hdkc4rQSgUVuvLegEt_bD_aYXv6JaZ-BEnWobjmlVxrvN5mnKHCG0x1BQyo.UHyltYwkhIcznL8D?startTime=1631572822000)
 
 [7.2 Project #1](#)
 
