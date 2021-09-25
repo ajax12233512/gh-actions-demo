@@ -26,18 +26,34 @@ Office Hours: 45 minutes before class (Mon/Wed 5:45 PM, Sat 9:30 AM) and 30 minu
 
 # Table Of Contents
 
-* [Getting your computer ready:](#getting-your-computer-ready)
-* [Additional Resources for review](#additional-resources-for-review)
-* [Useful Resources](#useful-resources)
-* [Classwork](#classwork)
-  * [HTML/CSS](#htmlcss)
-  * [Advanced CSS](#advanced-css)
-  * [Javascript](#javascript)
-  * [Web APIs](#web-apis)
-  * [Third Party APIs](#third-party-apis)
-  * [Server Side APIs](#server-side-apis)
-  * [Project 1](#project-1)
-  * [Project 1 Contd](#project-1-contd)
+- [SMU-DAL-FSF-PT-07-2021-U-C](#smu-dal-fsf-pt-07-2021-u-c)
+  - [Course Requirements](#course-requirements)
+      - [Attendance](#attendance)
+      - [Homework](#homework)
+      - [Projects](#projects)
+  - [Office Hours](#office-hours)
+- [Table Of Contents](#table-of-contents)
+- [Supplemental](#supplemental)
+    - [Getting your computer ready:](#getting-your-computer-ready)
+    - [Additional Resources for review](#additional-resources-for-review)
+    - [Useful Resources](#useful-resources)
+- [Classwork](#classwork)
+  - [HTML/CSS](#htmlcss)
+  - [Advanced CSS](#advanced-css)
+  - [Javascript](#javascript)
+  - [Web APIs](#web-apis)
+  - [Third Party APIs](#third-party-apis)
+  - [Server Side APIs](#server-side-apis)
+  - [Project 1](#project-1)
+  - [Project 1 Contd](#project-1-contd)
+  - [NodeJS](#nodejs)
+  - [OOP](#oop)
+  - [Express](#express)
+  - [SQL](#sql)
+  - [ORM](#orm)
+  - [MVC](#mvc)
+  - [Project 2](#project-2)
+  - [Project 2 Contd](#project-2-contd)
 
 # Supplemental
 
@@ -212,5 +228,157 @@ No Activites Available | [Important Information](/08-Project-1-Contd/03-Importan
 [7.2 Project #1](#)
 
 [7.3 Project #1 Presentations](#)
+
+[Table Of Contents](#table-of-contents)
+
+
+## NodeJS
+
+Overview | Homeworks |
+------------ | ------------|
+[Overview](/09-NodeJS/README.md) | [Homework Instructions](/09-NodeJS/02-Homework/README.md)
+[Class Activites](/09-NodeJS/01-Activities) | [Important Information](/09-NodeJS/04-Career-Connection)
+No Office Hours Activities | [Algorithm Practice](/09-NodeJS/03-Algorithms)
+
+#### Zoom Recording Links
+
+[9.1 Node.js Day 1](#)
+
+[9.2 Node.js Day 2](#)
+
+[9.3 Node.js Day 3](#)
+
+[Table Of Contents](#table-of-contents)
+
+
+## OOP
+
+Overview | Homeworks |
+------------ | ------------|
+[Overview](/10-OOP/README.md) | [Homework Instructions](/10-OOP/02-Homework/README.md)
+[Class Activites](/10-OOP/01-Activities) | [Important Information](/10-OOP/04-Career-Connection)
+No Office Hours Activities | [Algorithm Practice](/10-OOP/03-Algorithms)
+
+#### Zoom Recording Links
+
+[10.1 Object-Oriented Programming (OOP) Day 1](#)
+
+[10.2 Object-Oriented Programming (OOP) Day 2](#)
+
+[10.3 Object-Oriented Programming (OOP) Day 3](#)
+
+[Table Of Contents](#table-of-contents)
+
+
+## Express
+
+Overview | Homeworks |
+------------ | ------------|
+[Overview](/11-Express/README.md) | [Homework Instructions](/11-Express/02-Homework/README.md)
+[Class Activites](/11-Express/01-Activities) | [Important Information](/11-Express/04-Career-Connection)
+No Office Hours Activities | [Algorithm Practice](/11-Express/03-Algorithms)
+
+#### Zoom Recording Links
+
+[11.1 Intro to Node Servers](#)
+
+[11.2 Express Yourself](#)
+
+[11.3 Express Mini-Project](#)
+
+[Table Of Contents](#table-of-contents)
+
+
+## SQL
+
+Overview | Homeworks |
+------------ | ------------|
+[Overview](/12-SQL/README.md) | [Homework Instructions](/12-SQL/02-Homework/README.md)
+[Class Activites](/12-SQL/01-Activities) | [Important Information](/12-SQL/04-Career-Connection)
+No Office Hours Activities | [Algorithm Practice](/12-SQL/03-Algorithms)
+
+#### Zoom Recording Links
+
+[12.1 Messing With SQL](#)
+
+[12.2 Node Gets a SQL](#)
+
+[12.3 My-Massive-SQL](#)
+
+[Table Of Contents](#table-of-contents)
+
+
+## ORM
+
+Overview | Homeworks |
+------------ | ------------|
+[Overview](/13-ORM/README.md) | [Homework Instructions](/13-ORM/02-Homework/README.md)
+[Class Activites](/13-ORM/01-Activities) | [Important Information](/13-ORM/04-Career-Connection)
+No Office Hours Activities | [Algorithm Practice](/13-ORM/03-Algorithms)
+
+#### Zoom Recording Links
+
+[13.1 I Can Make an App with Some Handlebars](#)
+
+[13.2 Bringing it from the Front to the Back](#)
+
+[13.3 The Power of the ORM](#)
+
+[Table Of Contents](#table-of-contents)
+
+
+## MVC
+
+Overview | Homeworks |
+------------ | ------------|
+[Overview](/14-MVC/README.md) | [Homework Instructions](/14-MVC/02-Homework/README.md)
+[Class Activites](/14-MVC/01-Activities) | [Important Information](/14-MVC/04-Career-Connection)
+No Office Hours Activities | [Algorithm Practice](/14-MVC/03-Algorithms)
+
+#### Zoom Recording Links
+
+[14.1 I Can Make an App with Some Handlebars](#)
+
+[14.2 Bringing it from the Front to the Back](#)
+
+[14.3 The Power of the ORM](#)
+
+[Table Of Contents](#table-of-contents)
+
+
+## Project 2
+
+Overview | Homeworks |
+------------ | ------------|
+[Overview](/15-Project-2/README.md) | [Homework Instructions](/15-Project-2/02-Homework/README.md)
+[Class Activites](/15-Project-2/01-Activities) | [Important Information](/15-Project-2/04-Career-Connection)
+No Office Hours Activities | [Algorithm Practice](/15-Project-2/03-Algorithms)
+
+#### Zoom Recording Links
+
+[15.1 Project #2](#)
+
+[15.2 Project #2](#)
+
+[15.3 Project #2](#)
+
+[Table Of Contents](#table-of-contents)
+
+
+## Project 2 Contd
+
+Overview | Homeworks |
+------------ | ------------|
+[Overview](/16-Project-2-Contd/README.md) | [Homework Instructions](/16-Project-2-Contd/02-Homework/README.md)
+[Class Activites](/16-Project-2-Contd/01-Activities) | [Important Information](/16-Project-2-Contd/04-Career-Connection)
+No Office Hours Activities | [Algorithm Practice](/16-Project-2-Contd/03-Algorithms)
+
+#### Zoom Recording Links
+
+[16.1 Project #2](#)
+
+[16.2 Project #2](#)
+
+[16.3 Project #2 Presentations](#)
 
 [Table Of Contents](#table-of-contents)
