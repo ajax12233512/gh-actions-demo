@@ -206,9 +206,9 @@ No Activites Available | [Important Information](/07-Project-1/03-Important-Docu
 
 [7.1 Project #1](https://zoom.us/rec/share/4ln85Hdkc4rQSgUVuvLegEt_bD_aYXv6JaZ-BEnWobjmlVxrvN5mnKHCG0x1BQyo.UHyltYwkhIcznL8D?startTime=1631572822000)
 
-[7.2 Project #1](#)
+[7.2 Project #1](https://zoom.us/rec/share/74awNcTjZ-kkStUADnIC5DcmWmGYcWYC-8s1VMa_Ln-7X7wayeuS-2B1-Vp6uuTh.xVbE9p1gZ56_iDLK?startTime=1631745661000)
 
-[7.3 Project #1](#)
+[7.3 Project #1](https://zoom.us/rec/share/kl7wJdg-2fhdg849tgkJpFg-_mXFKTb-OL6oK4Wit2s1a_E5AmMDWvxky2TBvhht.h2BvlvUOGi0xNKQU?startTime=1631975434000)
 
 [Table Of Contents](#table-of-contents)
 
@@ -223,11 +223,11 @@ No Activites Available | [Important Information](/08-Project-1-Contd/03-Importan
 
 #### Zoom Recording Links
 
-[7.1 Project #1](#)
+[8.1 Project #1](https://zoom.us/rec/share/igYFSl_39l93oI656cz5oWwXRD4pF3eJ4dzwPBGgGezUxzLGB8Am480_Nb3nSfU4.inDgigJ-GlJxat4b?startTime=1632177892000)
 
-[7.2 Project #1](#)
+[8.2 Project #1](https://zoom.us/rec/share/RbMbwYZzrMIv6N2dOD-v4P1d87NHKKdeNLx83F6Ae-hI0ciBlbbV-lIozaUP8nOP.VjrEhy4Wlc-tfJbZ?startTime=1632350661000)
 
-[7.3 Project #1 Presentations](#)
+[8.3 Project #1 Presentations](https://zoom.us/rec/share/GO3PQx1YVG7XTAKESpmdANI6mTYd2gdE5ve48M9gCxU1qRh6MwcWLYKJrZdHuS7h.mCnUanRhZT_Y0_0E?startTime=1632579346000)
 
 [Table Of Contents](#table-of-contents)
 
@@ -242,7 +242,7 @@ No Office Hours Activities | [Algorithm Practice](/09-NodeJS/03-Algorithms)
 
 #### Zoom Recording Links
 
-[9.1 Node.js Day 1](#)
+[9.1 Node.js Day 1](https://zoom.us/rec/share/He4hVp9X_m26KCmtk5-ZuTdB1ozExnf75qbPfabxK0E-EJvauWU56UWs__Wp_iP4.k8Ol_InwweNhDDYn?startTime=1632782710000)
 
 [9.2 Node.js Day 2](#)
 
