@@ -244,7 +244,7 @@ No Office Hours Activities | [Algorithm Practice](/09-NodeJS/03-Algorithms)
 
 [9.1 Node.js Day 1](https://zoom.us/rec/share/He4hVp9X_m26KCmtk5-ZuTdB1ozExnf75qbPfabxK0E-EJvauWU56UWs__Wp_iP4.k8Ol_InwweNhDDYn?startTime=1632782710000)
 
-[9.2 Node.js Day 2](#)
+[9.2 Node.js Day 2](https://zoom.us/rec/share/iRVlmHALySUQ1zxtu5S7GN2MiJFzt2OmWwwdVrU39Y-87gd3z32h6R6POzd33apJ.rceKVar-Z69IRFDq?startTime=1632954649000)
 
 [9.3 Node.js Day 3](#)
 
