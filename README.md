@@ -261,7 +261,8 @@ No Office Hours Activities | [Algorithm Practice](/10-OOP/03-Algorithms)
 
 #### Zoom Recording Links
 
-[10.1 Object-Oriented Programming (OOP) Day 1](#)
+[10.1-a Object-Oriented Programming (OOP) Day 1](https://zoom.us/rec/share/x-vrCuN7p7u4S-s2KMMdo0vdeGUJat52VZapncSUuO__7Os4A2n0gAV9piyG8_eQ.qCJpM5CGwGv5c-QJ?startTime=1633387311000)
+[10.1-b Object-Oriented Programming (OOP) Day 1](https://zoom.us/rec/share/x-vrCuN7p7u4S-s2KMMdo0vdeGUJat52VZapncSUuO__7Os4A2n0gAV9piyG8_eQ.qCJpM5CGwGv5c-QJ?startTime=1633392653000)
 
 [10.2 Object-Oriented Programming (OOP) Day 2](#)
 
