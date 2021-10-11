@@ -266,7 +266,7 @@ No Office Hours Activities | [Algorithm Practice](/10-OOP/03-Algorithms)
 
 [10.2 Object-Oriented Programming (OOP) Day 2](https://zoom.us/rec/share/orS2hXNj3vI-B_i-vTKeCKNAKLGB5xlrXSpeQy8cP7MvOLJ2VJbnHY6fuqODXvAy.qx8Qw9cwwLheYCju?startTime=1633559398000)
 
-[10.3 Object-Oriented Programming (OOP) Day 3](#)
+[10.3 Object-Oriented Programming (OOP) Day 3](https://zoom.us/rec/share/1kI8f9jn8kveorWzWJpR5xXyx_F7tmsH8MIoPIjZ5VkrR-ifT9-06TtxXZSqOWj3.W_vB5gqrN_I9CgPp?startTime=1633788873000)
 
 [Table Of Contents](#table-of-contents)
 
