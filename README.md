@@ -281,7 +281,7 @@ No Office Hours Activities | [Algorithm Practice](/11-Express/03-Algorithms)
 
 #### Zoom Recording Links
 
-[11.1 Intro to Node Servers](#)
+[11.1 Intro to Node Servers](https://zoom.us/rec/share/ZhKvzR8CjHGOk83waF5an4quXi-rJcjp6fFKauGhfRzdeo8Iq6gG1OFOeIzL_teQ.yqCjNct16Zy_7f0w?startTime=1633991199000)
 
 [11.2 Express Yourself](#)
 
