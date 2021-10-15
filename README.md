@@ -283,7 +283,7 @@ No Office Hours Activities | [Algorithm Practice](/11-Express/03-Algorithms)
 
 [11.1 Intro to Node Servers](https://zoom.us/rec/share/ZhKvzR8CjHGOk83waF5an4quXi-rJcjp6fFKauGhfRzdeo8Iq6gG1OFOeIzL_teQ.yqCjNct16Zy_7f0w?startTime=1633991199000)
 
-[11.2 Express Yourself](#)
+[11.2 Express Yourself](https://zoom.us/rec/share/FU7yi2LAV3p0LQ5iNhVFNyPfcPpwaPgvc5gTYFPlD5WQKsjD113LoxIh-BO2Y9EB.p8-y7uX_3EP8aFtW?startTime=1634165033000)
 
 [11.3 Express Mini-Project](#)
 
