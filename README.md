@@ -285,7 +285,7 @@ No Office Hours Activities | [Algorithm Practice](/11-Express/03-Algorithms)
 
 [11.2 Express Yourself](https://zoom.us/rec/share/FU7yi2LAV3p0LQ5iNhVFNyPfcPpwaPgvc5gTYFPlD5WQKsjD113LoxIh-BO2Y9EB.p8-y7uX_3EP8aFtW?startTime=1634165033000)
 
-[11.3 Express Mini-Project](#)
+[11.3 Express Mini-Project](https://zoom.us/rec/share/HM01_13AHOMerZu5yTfHGVcV3zlCE8-SfrNzA0-yev_3M-Z9B3_4m6Fx_ZJhyetg.z-L_7ZdcCZ5gfGdK?startTime=1634393671000)
 
 [Table Of Contents](#table-of-contents)
 
