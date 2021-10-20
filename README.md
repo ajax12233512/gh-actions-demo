@@ -300,7 +300,7 @@ No Office Hours Activities | [Algorithm Practice](/12-SQL/03-Algorithms)
 
 #### Zoom Recording Links
 
-[12.1 Messing With SQL](#)
+[12.1 Messing With SQL](https://zoom.us/rec/share/f9vPLOnBq4-eXfJ0zMpiaVyWivjN28dcEiPDwQp1Ye3bBLE5m05JMSyF5rmADTI_.rWQGIO58CVFsuhwK?startTime=1634596813000)
 
 [12.2 Node Gets a SQL](#)
 
