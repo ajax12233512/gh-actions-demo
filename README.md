@@ -302,7 +302,7 @@ No Office Hours Activities | [Algorithm Practice](/12-SQL/03-Algorithms)
 
 [12.1 Messing With SQL](https://zoom.us/rec/share/f9vPLOnBq4-eXfJ0zMpiaVyWivjN28dcEiPDwQp1Ye3bBLE5m05JMSyF5rmADTI_.rWQGIO58CVFsuhwK?startTime=1634596813000)
 
-[12.2 Node Gets a SQL](#)
+[12.2 Node Gets a SQL](https://zoom.us/rec/play/LaHGVVQ46m_wwcU6vcXAn1pBJ4m2oE7sTVoBx7Kk9QRst-V0Z1d3FauORGqBSP9mjNibVXz_leVdXCnu.aXsETzZ5WhP21Gzu?startTime=1634769858000)
 
 [12.3 My-Massive-SQL](#)
 
