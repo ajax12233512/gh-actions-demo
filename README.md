@@ -304,7 +304,7 @@ No Office Hours Activities | [Algorithm Practice](/12-SQL/03-Algorithms)
 
 [12.2 Node Gets a SQL](https://zoom.us/rec/play/LaHGVVQ46m_wwcU6vcXAn1pBJ4m2oE7sTVoBx7Kk9QRst-V0Z1d3FauORGqBSP9mjNibVXz_leVdXCnu.aXsETzZ5WhP21Gzu?startTime=1634769858000)
 
-[12.3 My-Massive-SQL](#)
+[12.3 My-Massive-SQL](https://zoom.us/rec/play/ihJyq5GToC9ChcXQUahSISmyNzJQNiZI9933pwBi6KSWCDdrFaAiOKj3EkEPICl9cBkLXw3-fHR4bND7.fpEXJFNgBO3EjIWy?autoplay=true&startTime=1634998537000)
 
 [Table Of Contents](#table-of-contents)
 
