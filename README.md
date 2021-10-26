@@ -319,7 +319,7 @@ No Office Hours Activities | [Algorithm Practice](/13-ORM/03-Algorithms)
 
 #### Zoom Recording Links
 
-[13.1 I Can Make an App with Some Handlebars](#)
+[13.1 I Can Make an App with Some Handlebars](https://zoom.us/rec/share/EdoKE9mwqxhbdy21pTI4SQYHyZ3zT9PttjusoGVfh7H434KX0deZ9P5EuCvDPQR7.eR4HHF59uZ4aYNAf?startTime=1635201369000)
 
 [13.2 Bringing it from the Front to the Back](#)
 
