@@ -321,7 +321,7 @@ No Office Hours Activities | [Algorithm Practice](/13-ORM/03-Algorithms)
 
 [13.1 I Can Make an App with Some Handlebars](https://zoom.us/rec/share/EdoKE9mwqxhbdy21pTI4SQYHyZ3zT9PttjusoGVfh7H434KX0deZ9P5EuCvDPQR7.eR4HHF59uZ4aYNAf?startTime=1635201369000)
 
-[13.2 Bringing it from the Front to the Back](#)
+[13.2 Bringing it from the Front to the Back](https://zoom.us/rec/share/iivDlTSf8a01EroFGr03EgPELx3FOBKErmEjTLGL5ETwoUi17OyldI-Rqv2-TeXd.iArH6BbUDucZL8o5?startTime=1635374491000)
 
 [13.3 The Power of the ORM](#)
 
