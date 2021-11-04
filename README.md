@@ -340,7 +340,7 @@ No Office Hours Activities | [Algorithm Practice](/14-MVC/03-Algorithms)
 
 [14.1 I Can Make an App with Some Handlebars](https://zoom.us/rec/share/qFaagohN4gB974Ns5b4ct9SEvR6PLHChLr24kJ1fLv5suvzFo7mbCEE8Fy0N1yjb.XXvJap4VwfY3Usz5?startTime=1635806298000)
 
-[14.2 Bringing it from the Front to the Back](#)
+[14.2 Bringing it from the Front to the Back](https://zoom.us/rec/share/eI6CQA34KdXFpm-Qwaz65Yxd2cz4m9yxDLzQIJS7yLjaHtvH8kJXmE53tHpKvswg.nEJi-kYC9lIVJ8H5?startTime=1635979503000)
 
 [14.3 The Power of the ORM](#)
 
