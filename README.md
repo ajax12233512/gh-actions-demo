@@ -323,7 +323,7 @@ No Office Hours Activities | [Algorithm Practice](/13-ORM/03-Algorithms)
 
 [13.2 Bringing it from the Front to the Back](https://zoom.us/rec/share/iivDlTSf8a01EroFGr03EgPELx3FOBKErmEjTLGL5ETwoUi17OyldI-Rqv2-TeXd.iArH6BbUDucZL8o5?startTime=1635374491000)
 
-[13.3 The Power of the ORM](#)
+[13.3 The Power of the ORM](https://zoom.us/rec/share/sQ5tQAe522kz59dOqmoKx9qUH_JXCjAFVbVQrw6VLXowUTj3ffbATsi70ruZEQdC.bE5mSp8jv5Gp6HSx?startTime=1635603304000)
 
 [Table Of Contents](#table-of-contents)
 
@@ -338,7 +338,7 @@ No Office Hours Activities | [Algorithm Practice](/14-MVC/03-Algorithms)
 
 #### Zoom Recording Links
 
-[14.1 I Can Make an App with Some Handlebars](#)
+[14.1 I Can Make an App with Some Handlebars](https://zoom.us/rec/share/qFaagohN4gB974Ns5b4ct9SEvR6PLHChLr24kJ1fLv5suvzFo7mbCEE8Fy0N1yjb.XXvJap4VwfY3Usz5?startTime=1635806298000)
 
 [14.2 Bringing it from the Front to the Back](#)
 
