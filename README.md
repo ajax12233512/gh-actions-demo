@@ -28,15 +28,15 @@ Office Hours: 45 minutes before class (Mon/Wed 5:45 PM, Sat 9:30 AM) and 30 minu
 
 - [SMU-DAL-FSF-PT-07-2021-U-C](#smu-dal-fsf-pt-07-2021-u-c)
   - [Course Requirements](#course-requirements)
-      - [Attendance](#attendance)
-      - [Homework](#homework)
-      - [Projects](#projects)
+    - [Attendance](#attendance)
+    - [Homework](#homework)
+    - [Projects](#projects)
   - [Office Hours](#office-hours)
 - [Table Of Contents](#table-of-contents)
 - [Supplemental](#supplemental)
-    - [Getting your computer ready:](#getting-your-computer-ready)
-    - [Additional Resources for review](#additional-resources-for-review)
-    - [Useful Resources](#useful-resources)
+  - [Getting your computer ready:](#getting-your-computer-ready)
+  - [Additional Resources for review](#additional-resources-for-review)
+  - [Useful Resources](#useful-resources)
 - [Classwork](#classwork)
   - [HTML/CSS](#htmlcss)
   - [Advanced CSS](#advanced-css)
@@ -63,12 +63,11 @@ Office Hours: 45 minutes before class (Mon/Wed 5:45 PM, Sat 9:30 AM) and 30 minu
 
 [Mac](https://coding-bootcamp-fsf-prework.readthedocs-hosted.com/en/latest/modules/assignment5_mac/) | [Windows](https://coding-bootcamp-fsf-prework.readthedocs-hosted.com/en/latest/modules/assignment5_win/)
 
-
 ### Additional Resources for review
 
 ---
-[Github](/01-html-git-css/04-Important)
 
+[Github](/01-html-git-css/04-Important)
 
 ### Useful Resources
 
@@ -76,16 +75,15 @@ Office Hours: 45 minutes before class (Mon/Wed 5:45 PM, Sat 9:30 AM) and 30 minu
 
 [Prepare for interviews with Hacker Rank](https://www.hackerrank.com/) | [Learn Git Branching Concepts](https://learngitbranching.js.org/) | [Flexbox Froggy for CSS](https://flexboxfroggy.com/) | [Google Drive link with coding books](https://drive.google.com/drive/folders/1Ag1IPboFfGMr00a3HyZjSeDxxGd2JZsr?usp=sharing) | [Markdown Cheatsheet/Demo for your README files](https://markdown-it.github.io/)
 
-
 # Classwork
 
 ## HTML/CSS
 
-Overview | Homeworks |
------------- | ------------|
-[Overview](/01-HTML-Git-CSS/README.md) | [Homework Instructions](/01-HTML-Git-CSS/02-Homework/README.md)
-[Class Activites](/01-HTML-Git-CSS/01-Activities) | [Important Information](/01-HTML-Git-CSS/03-Important-Documents)
-[Career Services](/01-HTML-Git-CSS/04-Career-Connection) | No Algorithm Practice
+| Overview                                                 | Homeworks                                                        |
+| -------------------------------------------------------- | ---------------------------------------------------------------- |
+| [Overview](/01-HTML-Git-CSS/README.md)                   | [Homework Instructions](/01-HTML-Git-CSS/02-Homework/README.md)  |
+| [Class Activites](/01-HTML-Git-CSS/01-Activities)        | [Important Information](/01-HTML-Git-CSS/03-Important-Documents) |
+| [Career Services](/01-HTML-Git-CSS/04-Career-Connection) | No Algorithm Practice                                            |
 
 # Zoom Recording Links
 
@@ -96,14 +94,13 @@ Overview | Homeworks |
 [1.3 Heroes of CSS (1)](https://zoom.us/rec/share/-qP_FwMtlPFtePM48wbI2brgytP2RhKOgeiOjNf_fzBW92m0c5GkEp5EYm1bppnY.c7tCUxKHXKoB1TUo?startTime=1627944230000)
 [1.3 Heroes of CSS (2)](https://zoom.us/rec/share/-qP_FwMtlPFtePM48wbI2brgytP2RhKOgeiOjNf_fzBW92m0c5GkEp5EYm1bppnY.c7tCUxKHXKoB1TUo?startTime=1627958535000)
 
-
 ## Advanced CSS
 
-Overview | Homeworks |
------------- | ------------|
-[Overview](/02-Advanced-CSS/README.md) | [Homework Instructions](/02-Advanced-CSS/02-Homework/README.md)
-[Class Activites](/02-Advanced-CSS/01-Activities) | [Important Information](/02-Advanced-CSS/03-Important-Documents)
-[Career Services](/04-Career-Connection) | No Algorithms Practice
+| Overview                                          | Homeworks                                                        |
+| ------------------------------------------------- | ---------------------------------------------------------------- |
+| [Overview](/02-Advanced-CSS/README.md)            | [Homework Instructions](/02-Advanced-CSS/02-Homework/README.md)  |
+| [Class Activites](/02-Advanced-CSS/01-Activities) | [Important Information](/02-Advanced-CSS/03-Important-Documents) |
+| [Career Services](/04-Career-Connection)          | No Algorithms Practice                                           |
 
 #### Zoom Recording Links
 
@@ -115,14 +112,13 @@ Overview | Homeworks |
 
 [Table Of Contents](#table-of-contents)
 
-
 ## Javascript
 
-Overview | Homeworks |
------------- | ------------|
-[Overview](/03-JavaScript/README.md) | [Homework Instructions](/03-JavaScript/02-Homework/README.md)
-[Class Activites](/03-JavaScript/01-Activities) | [Important Information](/03-JavaScript/05-Important-Documents)
-[Career Services](/04-Career-Connection) | [Algorithm Practice](/03-JavaScript/03-Algorithms)
+| Overview                                        | Homeworks                                                      |
+| ----------------------------------------------- | -------------------------------------------------------------- |
+| [Overview](/03-JavaScript/README.md)            | [Homework Instructions](/03-JavaScript/02-Homework/README.md)  |
+| [Class Activites](/03-JavaScript/01-Activities) | [Important Information](/03-JavaScript/05-Important-Documents) |
+| [Career Services](/04-Career-Connection)        | [Algorithm Practice](/03-JavaScript/03-Algorithms)             |
 
 #### Zoom Recording Links
 
@@ -134,14 +130,13 @@ Overview | Homeworks |
 
 [Table Of Contents](#table-of-contents)
 
-
 ## Web APIs
 
-Overview | Homeworks |
------------- | ------------|
-[Overview](/04-Web-APIs/README.md) | [Homework Instructions](/04-Web-APIs/02-Homework/README.md)
-[Class Activites](/04-Web-APIs/01-Activities) | [Important Information](/04-Web-APIs/03-Important-Documents)
-[Career Services](/04-Career-Connection) | [Algorithm Practice](/04-Web-APIs/03-Algorithms)
+| Overview                                      | Homeworks                                                    |
+| --------------------------------------------- | ------------------------------------------------------------ |
+| [Overview](/04-Web-APIs/README.md)            | [Homework Instructions](/04-Web-APIs/02-Homework/README.md)  |
+| [Class Activites](/04-Web-APIs/01-Activities) | [Important Information](/04-Web-APIs/03-Important-Documents) |
+| [Career Services](/04-Career-Connection)      | [Algorithm Practice](/04-Web-APIs/03-Algorithms)             |
 
 #### Zoom Recording Links
 
@@ -155,14 +150,13 @@ Overview | Homeworks |
 
 [Table Of Contents](#table-of-contents)
 
-
 ## Third Party APIs
 
-Overview | Homeworks |
------------- | ------------|
-[Overview](/05-Third-Party-APIs/README.md) | [Homework Instructions](/05-Third-Party-APIs/02-Homework/README.md)
-[Class Activites](/05-Third-Party-APIs/01-Activities) | [Important Information](/05-Third-Party-APIs/03-Important-Documents)
-[Career Services](/04-Career-Connection) | [Algorithm Practice](/05-Third-Party-APIs/03-Algorithms)
+| Overview                                              | Homeworks                                                            |
+| ----------------------------------------------------- | -------------------------------------------------------------------- |
+| [Overview](/05-Third-Party-APIs/README.md)            | [Homework Instructions](/05-Third-Party-APIs/02-Homework/README.md)  |
+| [Class Activites](/05-Third-Party-APIs/01-Activities) | [Important Information](/05-Third-Party-APIs/03-Important-Documents) |
+| [Career Services](/04-Career-Connection)              | [Algorithm Practice](/05-Third-Party-APIs/03-Algorithms)             |
 
 #### Zoom Recording Links
 
@@ -174,14 +168,13 @@ Overview | Homeworks |
 
 [Table Of Contents](#table-of-contents)
 
-
 ## Server Side APIs
 
-Overview | Homeworks |
------------- | ------------|
-[Overview](/06-Server-Side-APIs/README.md) | [Homework Instructions](/06-Server-Side-APIs/02-Homework/README.md)
-[Class Activites](/06-Server-Side-APIs/01-Activities) | [Important Information](/06-Server-Side-APIs/03-Important-Documents)
-[Career Services](/04-Career-Connection) | [Algorithm Practice](/06-Server-Side-APIs/03-Algorithms)
+| Overview                                              | Homeworks                                                            |
+| ----------------------------------------------------- | -------------------------------------------------------------------- |
+| [Overview](/06-Server-Side-APIs/README.md)            | [Homework Instructions](/06-Server-Side-APIs/02-Homework/README.md)  |
+| [Class Activites](/06-Server-Side-APIs/01-Activities) | [Important Information](/06-Server-Side-APIs/03-Important-Documents) |
+| [Career Services](/04-Career-Connection)              | [Algorithm Practice](/06-Server-Side-APIs/03-Algorithms)             |
 
 #### Zoom Recording Links
 
@@ -193,14 +186,13 @@ Overview | Homeworks |
 
 [Table Of Contents](#table-of-contents)
 
-
 ## Project 1
 
-Overview | Homeworks |
------------- | ------------|
-[Overview](/07-Project-1/README.md) | [Homework Instructions](/07-Project-1/02-Homework/README.md)
-No Activites Available | [Important Information](/07-Project-1/03-Important-Documents)
-[Career Services](/04-Career-Connection) | No Algorithm Practice
+| Overview                                 | Homeworks                                                     |
+| ---------------------------------------- | ------------------------------------------------------------- |
+| [Overview](/07-Project-1/README.md)      | [Homework Instructions](/07-Project-1/02-Homework/README.md)  |
+| No Activites Available                   | [Important Information](/07-Project-1/03-Important-Documents) |
+| [Career Services](/04-Career-Connection) | No Algorithm Practice                                         |
 
 #### Zoom Recording Links
 
@@ -212,14 +204,13 @@ No Activites Available | [Important Information](/07-Project-1/03-Important-Docu
 
 [Table Of Contents](#table-of-contents)
 
-
 ## Project 1 Contd
 
-Overview | Homeworks |
------------- | ------------|
-[Overview](/08-Project-1-Contd/README.md) | [Homework Instructions](/08-Project-1-Contd/02-Homework/README.md)
-No Activites Available | [Important Information](/08-Project-1-Contd/03-Important-Documents)
-[Career Services](/04-Career-Connection) | No Algorithm Practice
+| Overview                                  | Homeworks                                                           |
+| ----------------------------------------- | ------------------------------------------------------------------- |
+| [Overview](/08-Project-1-Contd/README.md) | [Homework Instructions](/08-Project-1-Contd/02-Homework/README.md)  |
+| No Activites Available                    | [Important Information](/08-Project-1-Contd/03-Important-Documents) |
+| [Career Services](/04-Career-Connection)  | No Algorithm Practice                                               |
 
 #### Zoom Recording Links
 
@@ -231,14 +222,13 @@ No Activites Available | [Important Information](/08-Project-1-Contd/03-Importan
 
 [Table Of Contents](#table-of-contents)
 
-
 ## NodeJS
 
-Overview | Homeworks |
------------- | ------------|
-[Overview](/09-NodeJS/README.md) | [Homework Instructions](/09-NodeJS/02-Homework/README.md)
-[Class Activites](/09-NodeJS/01-Activities) | [Important Information](/09-NodeJS/04-Career-Connection)
-No Office Hours Activities | [Algorithm Practice](/09-NodeJS/03-Algorithms)
+| Overview                                    | Homeworks                                                 |
+| ------------------------------------------- | --------------------------------------------------------- |
+| [Overview](/09-NodeJS/README.md)            | [Homework Instructions](/09-NodeJS/02-Homework/README.md) |
+| [Class Activites](/09-NodeJS/01-Activities) | [Important Information](/09-NodeJS/04-Career-Connection)  |
+| No Office Hours Activities                  | [Algorithm Practice](/09-NodeJS/03-Algorithms)            |
 
 #### Zoom Recording Links
 
@@ -250,14 +240,13 @@ No Office Hours Activities | [Algorithm Practice](/09-NodeJS/03-Algorithms)
 
 [Table Of Contents](#table-of-contents)
 
-
 ## OOP
 
-Overview | Homeworks |
------------- | ------------|
-[Overview](/10-OOP/README.md) | [Homework Instructions](/10-OOP/02-Homework/README.md)
-[Class Activites](/10-OOP/01-Activities) | [Important Information](/10-OOP/04-Career-Connection)
-No Office Hours Activities | [Algorithm Practice](/10-OOP/03-Algorithms)
+| Overview                                 | Homeworks                                              |
+| ---------------------------------------- | ------------------------------------------------------ |
+| [Overview](/10-OOP/README.md)            | [Homework Instructions](/10-OOP/02-Homework/README.md) |
+| [Class Activites](/10-OOP/01-Activities) | [Important Information](/10-OOP/04-Career-Connection)  |
+| No Office Hours Activities               | [Algorithm Practice](/10-OOP/03-Algorithms)            |
 
 #### Zoom Recording Links
 
@@ -270,14 +259,13 @@ No Office Hours Activities | [Algorithm Practice](/10-OOP/03-Algorithms)
 
 [Table Of Contents](#table-of-contents)
 
-
 ## Express
 
-Overview | Homeworks |
------------- | ------------|
-[Overview](/11-Express/README.md) | [Homework Instructions](/11-Express/02-Homework/README.md)
-[Class Activites](/11-Express/01-Activities) | [Important Information](/11-Express/04-Career-Connection)
-No Office Hours Activities | [Algorithm Practice](/11-Express/03-Algorithms)
+| Overview                                     | Homeworks                                                  |
+| -------------------------------------------- | ---------------------------------------------------------- |
+| [Overview](/11-Express/README.md)            | [Homework Instructions](/11-Express/02-Homework/README.md) |
+| [Class Activites](/11-Express/01-Activities) | [Important Information](/11-Express/04-Career-Connection)  |
+| No Office Hours Activities                   | [Algorithm Practice](/11-Express/03-Algorithms)            |
 
 #### Zoom Recording Links
 
@@ -289,14 +277,13 @@ No Office Hours Activities | [Algorithm Practice](/11-Express/03-Algorithms)
 
 [Table Of Contents](#table-of-contents)
 
-
 ## SQL
 
-Overview | Homeworks |
------------- | ------------|
-[Overview](/12-SQL/README.md) | [Homework Instructions](/12-SQL/02-Homework/README.md)
-[Class Activites](/12-SQL/01-Activities) | [Important Information](/12-SQL/04-Career-Connection)
-No Office Hours Activities | [Algorithm Practice](/12-SQL/03-Algorithms)
+| Overview                                 | Homeworks                                              |
+| ---------------------------------------- | ------------------------------------------------------ |
+| [Overview](/12-SQL/README.md)            | [Homework Instructions](/12-SQL/02-Homework/README.md) |
+| [Class Activites](/12-SQL/01-Activities) | [Important Information](/12-SQL/04-Career-Connection)  |
+| No Office Hours Activities               | [Algorithm Practice](/12-SQL/03-Algorithms)            |
 
 #### Zoom Recording Links
 
@@ -308,14 +295,13 @@ No Office Hours Activities | [Algorithm Practice](/12-SQL/03-Algorithms)
 
 [Table Of Contents](#table-of-contents)
 
-
 ## ORM
 
-Overview | Homeworks |
------------- | ------------|
-[Overview](/13-ORM/README.md) | [Homework Instructions](/13-ORM/02-Homework/README.md)
-[Class Activites](/13-ORM/01-Activities) | [Important Information](/13-ORM/04-Career-Connection)
-No Office Hours Activities | [Algorithm Practice](/13-ORM/03-Algorithms)
+| Overview                                 | Homeworks                                              |
+| ---------------------------------------- | ------------------------------------------------------ |
+| [Overview](/13-ORM/README.md)            | [Homework Instructions](/13-ORM/02-Homework/README.md) |
+| [Class Activites](/13-ORM/01-Activities) | [Important Information](/13-ORM/04-Career-Connection)  |
+| No Office Hours Activities               | [Algorithm Practice](/13-ORM/03-Algorithms)            |
 
 #### Zoom Recording Links
 
@@ -327,14 +313,13 @@ No Office Hours Activities | [Algorithm Practice](/13-ORM/03-Algorithms)
 
 [Table Of Contents](#table-of-contents)
 
-
 ## MVC
 
-Overview | Homeworks |
------------- | ------------|
-[Overview](/14-MVC/README.md) | [Homework Instructions](/14-MVC/02-Homework/README.md)
-[Class Activites](/14-MVC/01-Activities) | [Important Information](/14-MVC/04-Career-Connection)
-No Office Hours Activities | [Algorithm Practice](/14-MVC/03-Algorithms)
+| Overview                                 | Homeworks                                              |
+| ---------------------------------------- | ------------------------------------------------------ |
+| [Overview](/14-MVC/README.md)            | [Homework Instructions](/14-MVC/02-Homework/README.md) |
+| [Class Activites](/14-MVC/01-Activities) | [Important Information](/14-MVC/04-Career-Connection)  |
+| No Office Hours Activities               | [Algorithm Practice](/14-MVC/03-Algorithms)            |
 
 #### Zoom Recording Links
 
@@ -342,22 +327,21 @@ No Office Hours Activities | [Algorithm Practice](/14-MVC/03-Algorithms)
 
 [14.2 Bringing it from the Front to the Back](https://zoom.us/rec/share/eI6CQA34KdXFpm-Qwaz65Yxd2cz4m9yxDLzQIJS7yLjaHtvH8kJXmE53tHpKvswg.nEJi-kYC9lIVJ8H5?startTime=1635979503000)
 
-[14.3 The Power of the ORM](#)
+[14.3 The Power of the ORM](https://zoom.us/rec/share/vB9Il1XcIc0RaU_YHAqAPksgSR50OgabdW4K9eWqgXta9TSOF9K7pyI4qOUS-de6.j5yOGEyrjICYOrs-?startTime=1636208020000)
 
 [Table Of Contents](#table-of-contents)
 
-
 ## Project 2
 
-Overview | Homeworks |
------------- | ------------|
-[Overview](/15-Project-2/README.md) | [Homework Instructions](/15-Project-2/02-Homework/README.md)
-[Class Activites](/15-Project-2/01-Activities) | [Important Information](/15-Project-2/04-Career-Connection)
-No Office Hours Activities | [Algorithm Practice](/15-Project-2/03-Algorithms)
+| Overview                                       | Homeworks                                                    |
+| ---------------------------------------------- | ------------------------------------------------------------ |
+| [Overview](/15-Project-2/README.md)            | [Homework Instructions](/15-Project-2/02-Homework/README.md) |
+| [Class Activites](/15-Project-2/01-Activities) | [Important Information](/15-Project-2/04-Career-Connection)  |
+| No Office Hours Activities                     | [Algorithm Practice](/15-Project-2/03-Algorithms)            |
 
 #### Zoom Recording Links
 
-[15.1 Project #2](#)
+[15.1 Project #2](https://zoom.us/rec/share/EVuXG9gAb6fDa32Cosa8tFN8fD0K_aXgu62GTpnRS2LY-HlM6fUR098rR-YQ7LV8.H_rlkm6dwe73-Fb6?startTime=1636414835000)
 
 [15.2 Project #2](#)
 
@@ -365,14 +349,13 @@ No Office Hours Activities | [Algorithm Practice](/15-Project-2/03-Algorithms)
 
 [Table Of Contents](#table-of-contents)
 
-
 ## Project 2 Contd
 
-Overview | Homeworks |
------------- | ------------|
-[Overview](/16-Project-2-Contd/README.md) | [Homework Instructions](/16-Project-2-Contd/02-Homework/README.md)
-[Class Activites](/16-Project-2-Contd/01-Activities) | [Important Information](/16-Project-2-Contd/04-Career-Connection)
-No Office Hours Activities | [Algorithm Practice](/16-Project-2-Contd/03-Algorithms)
+| Overview                                             | Homeworks                                                          |
+| ---------------------------------------------------- | ------------------------------------------------------------------ |
+| [Overview](/16-Project-2-Contd/README.md)            | [Homework Instructions](/16-Project-2-Contd/02-Homework/README.md) |
+| [Class Activites](/16-Project-2-Contd/01-Activities) | [Important Information](/16-Project-2-Contd/04-Career-Connection)  |
+| No Office Hours Activities                           | [Algorithm Practice](/16-Project-2-Contd/03-Algorithms)            |
 
 #### Zoom Recording Links
 
