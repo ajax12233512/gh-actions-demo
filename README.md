@@ -343,9 +343,9 @@ Office Hours: 45 minutes before class (Mon/Wed 5:45 PM, Sat 9:30 AM) and 30 minu
 
 [15.1 Project #2](https://zoom.us/rec/share/EVuXG9gAb6fDa32Cosa8tFN8fD0K_aXgu62GTpnRS2LY-HlM6fUR098rR-YQ7LV8.H_rlkm6dwe73-Fb6?startTime=1636414835000)
 
-[15.2 Project #2](#)
+[15.2 Project #2](https://zoom.us/rec/share/6Su6ndBzGi2_RVcjhfQABH43zrLAShrmp7yYg5nFeVwJfF9bBEvH8bMYg5fpq2k.bK1bEBwpauknJDIe?startTime=1636587337000)
 
-[15.3 Project #2](#)
+[15.3 Project #2](https://zoom.us/rec/share/GISePgs7P7oYdGcE-79mzJg-M49U86Hi9N5-XlJl-4OY-PK_Ookgz4EFLqwzMIH4.0rrkmgdqP_fcXlt0?startTime=1636816558000)
 
 [Table Of Contents](#table-of-contents)
 
@@ -359,10 +359,28 @@ Office Hours: 45 minutes before class (Mon/Wed 5:45 PM, Sat 9:30 AM) and 30 minu
 
 #### Zoom Recording Links
 
-[16.1 Project #2](#)
+[16.1 Project #2](https://zoom.us/rec/share/EDsboSDMpFxxbVaZiwPI6tNWG3M4Aj_U-xPG7x1XaAhIIHlk6O8X9gn0wyKtEfiZ.d9CLeoY83_dm4pA4?startTime=1637019570000)
 
-[16.2 Project #2](#)
+[16.2 Project #2](https://zoom.us/rec/play/35qtJymP5uwumLqd74_G5s-u2knCNnTVVxGwU7sAWgwxjqs_fJMogQbGJr1K8HGes7QsJ95-L90Npt5C.mCRgATe2D7X5ESiw?autoplay=true&startTime=1637195453000)
 
-[16.3 Project #2 Presentations](#)
+[16.3 Project #2 Presentations](https://zoom.us/rec/share/uzrVY-fssH1r3BVBggysOs2yEOYpWRaXoAoBd3uGY3_45cq41AvXJ7VCZEiXrQUA.U1p8KiM-e2fJzbck?startTime=1637421188000)
+
+[Table Of Contents](#table-of-contents)
+
+## Computer Science
+
+| Overview                                | Homeworks                                             |
+| --------------------------------------- | ----------------------------------------------------- |
+| [Overview](/17-CS/README.md)            | [Homework Instructions](/17-CS/02-Homework/README.md) |
+| [Class Activites](/17-CS/01-Activities) | [Important Information](/17-CS/04-Career-Connection)  |
+| No Office Hours Activities              | [Algorithm Practice](/17-CS/03-Algorithms)            |
+
+#### Zoom Recording Links
+
+[17.1 How Does JavaScript Execute](https://zoom.us/rec/share/pge_BXna1ddsV-4rnR2mWq3EmOMKhFaTf9KlJn7rl9s2Sv3Oq3fM0vgybmQwlM_1.tUEf7Vwzh90LY6hw?startTime=1637625875000)
+
+[17.2 Functional Programming in JavaScript](#)
+
+[17.3 Algorithms, Recursion, and the Technical Interview](#)
 
 [Table Of Contents](#table-of-contents)
