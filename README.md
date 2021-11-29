@@ -379,7 +379,7 @@ Office Hours: 45 minutes before class (Mon/Wed 5:45 PM, Sat 9:30 AM) and 30 minu
 
 [17.1 How Does JavaScript Execute](https://zoom.us/rec/share/pge_BXna1ddsV-4rnR2mWq3EmOMKhFaTf9KlJn7rl9s2Sv3Oq3fM0vgybmQwlM_1.tUEf7Vwzh90LY6hw?startTime=1637625875000)
 
-[17.2 Functional Programming in JavaScript](#)
+[17.2 Functional Programming in JavaScript](https://zoom.us/rec/share/fvByKekAG8XwJF2OXpdlCs4tSRmlffTpvbbHi-8qcWXNywCjbh7Gn_Faef2SXDer.Or6adyBREXgzMubE?startTime=1637797453000)
 
 [17.3 Algorithms, Recursion, and the Technical Interview](#)
 
