@@ -384,3 +384,21 @@ Office Hours: 45 minutes before class (Mon/Wed 5:45 PM, Sat 9:30 AM) and 30 minu
 [17.3 Algorithms, Recursion, and the Technical Interview](https://zoom.us/rec/share/5GwAcPq8WfK67s9IR1d0iala30LMVQVe_S0y9lgZAY_yvdJzmXTQHoSiQSZTVQPm.vmk6EZIcg7yJhxmZ?startTime=1638229423000)
 
 [Table Of Contents](#table-of-contents)
+
+## NoSQL
+
+| Overview                                   | Homeworks                                                |
+| ------------------------------------------ | -------------------------------------------------------- |
+| [Overview](/18-NoSQL/README.md)            | [Homework Instructions](/18-NoSQL/02-Homework/README.md) |
+| [Class Activites](/18-NoSQL/01-Activities) | [Important Information](/18-NoSQL/04-Career-Connection)  |
+| No Office Hours Activities                 | [Algorithm Practice](/18-NoSQL/03-Algorithms)            |
+
+#### Zoom Recording Links
+
+[18.1 Masters of MongoDB](https://zoom.us/rec/share/AQO8hBj2ETfcyO08WnFfVHJGc5bHDaYoc_vI0iOQdU6FQmI2X399p0v8JITKeIwi.A_tpucCOjTwpyx41?startTime=1638405343000)
+
+[18.2 Intro To Mongoose](#)
+
+[18.3 IndexedDB](#)
+
+[Table Of Contents](#table-of-contents)
